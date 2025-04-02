@@ -15,7 +15,7 @@ sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 os.system("rm -r freenove_Kit")
 os.system("git clone --depth 1 https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Control_Board_V5 freenove_Kit")
 
-project = "fnk0092-docs"
+project = "fnk0093-docs"
 # <!!!BEGIN!!!>
 copyright = '2016-2025, Freenove'
 author = 'Freenove'
